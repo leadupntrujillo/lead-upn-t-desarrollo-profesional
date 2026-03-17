@@ -1,3 +1,5 @@
 # Ignorar todos los archivos especificados en esta carpeta
 *.docx
 *.pdf
+*.pptx
+*.drawio
